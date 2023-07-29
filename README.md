@@ -1,2 +1,2 @@
-# Pruebas_Curiosas
- Codigo donde pongo prueba la funcionalidad de las clases y de las curisidades que me encuentro
+# PruebasCuriosas
+ Code where I test the functionality of the classes
